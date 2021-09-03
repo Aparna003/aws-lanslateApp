@@ -1,0 +1,23 @@
+ <!-- <b-row class="mt-5 d-flex justify-content-center">
+      <b-col md="6">
+      <b-form-textarea
+        v-model="toText"
+        placeholder="Translated text to speech..."
+        rows="3"
+        max-rows="6"
+        disabled
+      ></b-form-textarea>
+      </b-col>
+      </b-row> -->
+      <!-- <b-row class="d-flex justify-content-center">
+        <b-col md="3">
+          <b-button class="m2" variant="danger" @click="textToSpeech">
+            Translate to speech
+          </b-button>
+        </b-col>
+         <b-col md="3">
+         <b-button class="m2" variant="danger" @click="play">
+            Play
+          </b-button>
+           </b-col>
+      </b-row> -->
